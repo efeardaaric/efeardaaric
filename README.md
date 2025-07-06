@@ -15,12 +15,12 @@ and yes, I enjoy hiding a few easter eggs here and there.
 Take a look around — some projects may surprise you.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pweGQ4enh2dHdhbGRqNm5samdoZ3B3cXc3YXoxOWU0anZ2ZnhrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/119pLwyWg8ScTK/giphy.gif" width="250" height="250"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9ndWNjZzhmemhsMTk2MHFyNmg4cDhmczU0OXU0djA0YmdtaXB5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="250" height="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xvdGQ1YjVxdmk1OHRxNzlkeWQ3OWs1aTBnc2RiMjB6d2JjOWxnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="220" height="220"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVlMnVzeXRhOWMzbHhqd3JncGFqbzE5dDNjYmg2YWp2OW44ODV3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hr216HOgDKL0dri3cD/giphy.gif" width="220" height="220"/>
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmcwcHMwZ25ucWN6emcxc296emJ3MWljZ3lxZjlhcGZjZ2F5NXZpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e3h3TdaZcluBQhssOd/giphy.gif" width="250" height="250"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWozNjE1cnE0NnIwdWExMGRwNGZvOWNtZnBua3MwZDc5ZjF4cW41NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hr216HOgDKL0dri3cD/giphy.gif" width="250" height="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhvODNqMmlnaTFobDNsOW9lOXBvb2VqemVrc3VpYnpucnVhYnFxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZwRL2iqmV5S0/giphy.gif" width="220" height="220"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2s2Z2Z3NmNrdnp5eGZscncwNHVjZm5wNXkxNjloNXpkb25ydzk4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5XPb0FvIqylqg/giphy.gif" width="220" height="220"/>
 </p>
 
