@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Efe Arda Arıç 👋  
+**Mobile Developer** | **ML Enthusiast** | **Indie Game Hobbyist**
 
-<!--
-**efeardaaric/efeardaaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build mobile apps with a focus on clean design and smooth user experience.  
+Lately, I've been diving into **machine learning**, exploring how data and code come together.
 
-Here are some ideas to get you started:
+On the side, I like to experiment with mobile game development —  
+and yes, I enjoy hiding a few easter eggs here and there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🎮 Favorite game: **Elden Ring**
+
+---
+
+📬 **Let’s connect and build something great.**  
+Take a look around — some projects may surprise you.
