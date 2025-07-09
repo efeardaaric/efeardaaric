@@ -7,7 +7,7 @@ Lately, I've been diving into **machine learning**, exploring how data and code 
 On the side, I like to experiment with mobile game development —  
 and yes, I enjoy hiding a few easter eggs here and there.
 
-> 🎮 Favorite game: **Elden Ring**
+
 
 ---
 
